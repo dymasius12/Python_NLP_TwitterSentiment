@@ -49,8 +49,9 @@ $ pip install -r requirements.txt
 PLEASE NOTE: it needs 1 command after the filename!
 
 ```
-python search.py
+jupyter notebook
 ```
+then run the notebook on jupyter
 
 or
 
