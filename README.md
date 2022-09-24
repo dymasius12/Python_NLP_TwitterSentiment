@@ -53,12 +53,6 @@ jupyter notebook
 ```
 then run the notebook on jupyter
 
-or
-
-```
-python3 search.py
-```
-
 ### More references:
 
 https://developer.twitter.com/en/docs/twitter-api/rate-limits
